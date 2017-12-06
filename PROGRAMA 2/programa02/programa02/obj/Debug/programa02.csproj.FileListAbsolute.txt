@@ -1,0 +1,9 @@
+C:\Users\WIIII\Desktop\POO\PROGRAMA 2\programa02\programa02\bin\Debug\programa02.exe.config
+C:\Users\WIIII\Desktop\POO\PROGRAMA 2\programa02\programa02\obj\Debug\programa02.csprojResolveAssemblyReference.cache
+C:\Users\WIIII\Desktop\POO\PROGRAMA 2\programa02\programa02\bin\Debug\programa02.exe
+C:\Users\WIIII\Desktop\POO\PROGRAMA 2\programa02\programa02\bin\Debug\programa02.pdb
+C:\Users\WIIII\Desktop\POO\PROGRAMA 2\programa02\programa02\obj\Debug\programa02.exe
+C:\Users\WIIII\Desktop\POO\PROGRAMA 2\programa02\programa02\obj\Debug\programa02.pdb
+C:\Users\WIIII\Desktop\POO - 15-EISN-1-159\PROGRAMA 2\programa02\programa02\bin\Debug\programa02.exe.config
+C:\Users\WIIII\Desktop\POO - 15-EISN-1-159\PROGRAMA 2\programa02\programa02\obj\Debug\programa02.exe
+C:\Users\WIIII\Desktop\POO - 15-EISN-1-159\PROGRAMA 2\programa02\programa02\obj\Debug\programa02.pdb

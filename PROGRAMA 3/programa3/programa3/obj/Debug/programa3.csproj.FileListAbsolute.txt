@@ -1,0 +1,12 @@
+C:\Users\WIIII\Desktop\POO\PROGRAMA 3\programa3\programa3\bin\Debug\programa3.exe.config
+C:\Users\WIIII\Desktop\POO\PROGRAMA 3\programa3\programa3\bin\Debug\programa3.exe
+C:\Users\WIIII\Desktop\POO\PROGRAMA 3\programa3\programa3\bin\Debug\programa3.pdb
+C:\Users\WIIII\Desktop\POO\PROGRAMA 3\programa3\programa3\obj\Debug\programa3.csprojResolveAssemblyReference.cache
+C:\Users\WIIII\Desktop\POO\PROGRAMA 3\programa3\programa3\obj\Debug\programa3.exe
+C:\Users\WIIII\Desktop\POO\PROGRAMA 3\programa3\programa3\obj\Debug\programa3.pdb
+C:\Users\WIIII\Desktop\POO - 15-EISN-1-159\PROGRAMA 3\programa3\programa3\bin\Debug\programa3.exe.config
+C:\Users\WIIII\Desktop\POO - 15-EISN-1-159\PROGRAMA 3\programa3\programa3\obj\Debug\programa3.exe
+C:\Users\WIIII\Desktop\POO - 15-EISN-1-159\PROGRAMA 3\programa3\programa3\obj\Debug\programa3.pdb
+C:\Users\WIIII\Desktop\POO - 15-EISN-1-159\PROGRAMA 3\programa3\programa3\bin\Debug\programa3.exe
+C:\Users\WIIII\Desktop\POO - 15-EISN-1-159\PROGRAMA 3\programa3\programa3\bin\Debug\programa3.pdb
+C:\Users\WIIII\Desktop\POO - 15-EISN-1-159\PROGRAMA 3\programa3\programa3\obj\Debug\programa3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\WIIII\Desktop\POO\PROGRAMA 1\programa_01\programa_01\bin\Debug\programa_01.exe.config
+C:\Users\WIIII\Desktop\POO\PROGRAMA 1\programa_01\programa_01\bin\Debug\programa_01.exe
+C:\Users\WIIII\Desktop\POO\PROGRAMA 1\programa_01\programa_01\bin\Debug\programa_01.pdb
+C:\Users\WIIII\Desktop\POO\PROGRAMA 1\programa_01\programa_01\obj\Debug\programa_01.csprojResolveAssemblyReference.cache
+C:\Users\WIIII\Desktop\POO\PROGRAMA 1\programa_01\programa_01\obj\Debug\programa_01.exe
+C:\Users\WIIII\Desktop\POO\PROGRAMA 1\programa_01\programa_01\obj\Debug\programa_01.pdb
+C:\Users\WIIII\Desktop\POO - 15-EISN-1-159\PROGRAMA 1\programa_01\programa_01\bin\Debug\programa_01.exe.config
+C:\Users\WIIII\Desktop\POO - 15-EISN-1-159\PROGRAMA 1\programa_01\programa_01\obj\Debug\programa_01.exe
+C:\Users\WIIII\Desktop\POO - 15-EISN-1-159\PROGRAMA 1\programa_01\programa_01\obj\Debug\programa_01.pdb
+C:\Users\WIIII\Desktop\POO - 15-EISN-1-159\PROGRAMA 1\programa_01\programa_01\bin\Debug\programa_01.exe
+C:\Users\WIIII\Desktop\POO - 15-EISN-1-159\PROGRAMA 1\programa_01\programa_01\bin\Debug\programa_01.pdb
+C:\Users\WIIII\Desktop\POO - 15-EISN-1-159\PROGRAMA 1\programa_01\programa_01\obj\Debug\programa_01.csprojResolveAssemblyReference.cache
